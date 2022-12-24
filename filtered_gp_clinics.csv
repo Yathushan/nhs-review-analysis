@@ -1,0 +1,59 @@
+,OrganisationCode,OrganisationName,Address1,Address2,Address3,City,County,Postcode,Latitude,Longitude
+50,E84681,SAVITA MEDICAL CENTRE,"48, HARROW VIEW",HARROW,MIDDLESEX,HARROW,Middlesex,HA1 1RQ,51.5865478515625,-0.3428172171115875
+167,E84002,Forty Willows Surgery,46 Forty Lane,,,Wembley,Middlesex,HA9 9HA,51.56578826904297,-0.2706656455993652
+180,E84075,Mollison Way Surgery,45c & 46 South Parade,,,Edgware,Middlesex,HA8 5QL,51.597652435302734,-0.278551697731018
+225,E84051,Stanley Corner Medical Centre,1-3 Stanley Avenue,,,Wembley,Middlesex,HA0 4JF,51.54425048828125,-0.296604573726654
+287,Y01090,Sms Medical Practice,Wembley Centre for Health and Care,1st floor,116 Chaplin Road,Wembley,Middlesex,HA0 4UZ,51.549713134765625,-0.306770920753479
+661,E84684,Tudor House Medical Centre,1 Chalkhill Road,Wembley,,London,Middlesex,HA9 9DS,51.56449508666992,-0.2666747570037841
+923,E84007,Uxendon Crescent Surgery,1 Uxendon Crescent,,Middlesex,Wembley,Middlesex,HA9 9TW,51.57206344604492,-0.2927945554256439
+986,E84024,The Pinn Medical Centre,37 Love Lane,,,Pinner,Middlesex,HA5 3EE,51.595073699951165,-0.3822390735149383
+1059,E84044,The Northwick Surgery,36 Northwick Park Road,,,Harrow,Middlesex,HA1 2NU,51.58100128173828,-0.3264641761779785
+1274,E84068,THE RIDGEWAY SURGERY,"71,",Imperial Drive,North Harrow,Middlesex,,HA2 7DU,51.58100509643555,-0.3650870323181152
+1284,E84063,Lancelot Medical Centre,"19, Lancelot Road",Wembley,,London,,HA0 2AL,51.55286407470703,-0.2994851171970367
+1354,E86011,Oxford Drive Medical Centre,1 Oxford Drive,,,Ruislip,Middlesex,HA4 9EY,51.56774139404297,-0.3929921388626098
+1373,E83668,Dr SIRISENA & PARTNERS,156 DEANS LANE,,,EDGWARE,Middlesex,HA8 9NT,51.61611557006836,-0.2602888941764831
+1443,E83030,PENSHURST GARDENS SURGERY,39 Penshurst Gardens,,,Edgware,Middlesex,HA8 9TN,51.61613082885742,-0.2727971971035003
+1569,E84020,The Stag Holyrood Surgery,82 Staglane,,,Edgware,Middlesex,HA8 5LP,51.5981674194336,-0.2707064747810363
+1636,E83032,Oak Lodge Medical Centre,234 Burnt Oak Broadway,Edgware,,,,HA8 0AP,51.603679656982415,-0.2706848084926605
+1723,E84647,Kenton Clinic,533a Kenton Road,Kenton,Harrow,Middlesex ,,HA3 0UQ,51.585968017578125,-0.2924033105373382
+1734,E84018,STREATFIELD HEALTH CENTRE,1 Streatfield Road,,,Harrow,Middlesex,HA3 9BP,51.59381103515625,-0.3081056475639343
+1753,E84638,Alperton Medical Centre,"32, Stanley Avenue",,,Wembley,Middlesex,HA0 4JB,51.542877197265625,-0.2942043244838714
+1764,E84003,Premier Medical Centre,Wembley Centre for Health & Care,116 Chaplin Road,,Wembley,Middlesex,HA0 4UZ,51.549713134765625,-0.306770920753479
+1831,E83053,Lane End Medical Group,2 Penshurst Gardens,,,Edgware,Middlesex,HA8 9GJ,51.61528778076172,-0.2748513519763946
+1858,E86012,Wood Lane Medical Centre,Wood Lane Medical Centre,2A Wood Lane,,Ruislip,Middlesex,HA4 6ER,51.57121658325195,-0.4251493215560913
+1965,E84058,GP Direct,3-7 Welbeck Road,,,Harrow,Middlesex,HA2 0RQ,51.57526016235352,-0.3587846457958221
+2073,E86022,The Abbotsbury Practice,Eastcote Health Centre,2A Abbotsbury Gardens,Pinner,Middlesex,,HA5 1TG,51.579265594482415,-0.397391676902771
+2237,E86041,Acre Surgery,Acre Surgery,Northwood Health Centre,Neal Close,Northwood,Middlesex,HA6 1TQ,51.60446548461913,-0.4115371406078338
+2261,E86006,The Devonshire Lodge Practice,The Devonshire Lodge Practice,Eastcote Health Centre,Abbotsbury Gardens,Pinner,Middlesex,HA5 1TG,51.579265594482415,-0.397391676902771
+2419,E84693,St Peter's Medical Centre,Colbeck Road,,,West Harrow,Middlesex,HA1 4BS,51.57649612426758,-0.3506872653961181
+2543,E84004,THE CIRCLE PRACTICE,BELMONT HEALTH CENTRE,516 KENTON LANE,HARROW,MIDDX,,HA3 7LT,51.601112365722656,-0.3205988705158233
+2593,E86615,Acrefield Surgery,Acrefield Surgery,700 Field End Road,South Ruislip,Middlesex,Middlesex,HA4 0QR,51.56222534179688,-0.3822941184043884
+3371,E84062,The Shaftesbury Medical Centre,39 shaftesbury Parade,Harrow,,London,Middlesex,HA2 0AH,51.57170486450195,-0.3539920151233673
+3415,E84678,Preston Medical Centre,23 Preston Road,,,Wembley ,Middlesex,HA9 8JZ,51.564334869384766,-0.292564570903778
+3416,E84653,Zain Medical Centre,122 Turner Road,Edgware,,London,,HA8 6BH,51.597850799560554,-0.2901817262172699
+3455,E84008,Simpson House Medical Centre,255 Eastcote Lane,,,Harrow,,HA2 8RS,51.5616569519043,-0.3724173903465271
+3819,E86001,The Steven Shackman Practice,Rickmansworth Road,,,Northwood,Middlesex,HA6 2RG,51.615867614746094,-0.4425259828567504
+4134,Y05080,First Choice Medical Care,275A KINGS ROAD,HARROW,,MIDDLESEX,,HA2 9LG,51.571243286132805,-0.3757114112377166
+4193,E86033,St Martins Medical Centre (Main Surgery),21 Eastcote Road,,,Ruislip,Middlesex,HA4 8BE,51.5776481628418,-0.4245518445968627
+4287,E84601,KENTONBRIDGEMEDICAL CENTRE ,155-175 KENTON ROAD ,KENTON ,,HARROW,,HA3 0YX,51.582134246826165,-0.3164922595024108
+4431,E84083,LANFRANC MEDICAL CENTRE,2 Lanfranc Court,Greenford Road,Greenford,,Middlesex,HA1 3QE,51.56158447265625,-0.3327313959598541
+4474,E83038,Jai Medical Centre,114 Edgwarebury Lane,,,Edgware,Middlesex,HA8 8NB,51.62204360961913,-0.2775277197360992
+4620,E83028,Parkview Surgery,36 Cressingham Road,,,Edgware,Middlesex,HA8 0RW,51.606971740722656,-0.2574612498283386
+4716,E84066,Hazeldene Medical Group Practice,Hazeldene Medical Centre,1b Wyld Way,,London,Middlesex,HA9 6PW,51.54759216308594,-0.275379478931427
+4752,E83018,WATLING MEDICAL CENTRE Stanmore,42 London Road,STANMORE,MIDDLESEX,,,HA7 4NU,51.62127304077149,-0.2969289124011993
+4791,E84057,The Stanmore Medical Centre,85 Crowshott Avenue,Stanmore,Middlesex,,,HA7 1HS,51.601539611816406,-0.3040063679218292
+4841,E84713,The Enterprise Practice,Belmont Health Centre,516 Kenton Lane,Belmont,Harrow,Middlesex,HA3 7LT,51.601112365722656,-0.3205988705158233
+4851,E86028,Eastbury Surgery,Eastbury Surgery,3 Eastbury Road,,Northwood,,HA6 3BG,51.611629486083984,-0.4238956570625305
+5061,E84040,Pinner Road Surgery,196 Pinner Road,Harrow,,Miidx,Middlesex,HA1 4JS,51.582794189453125,-0.3528408110141754
+5181,E86618,Carepoint Practice,Northwood Health Centre,Neal Close,Acre Way,Northwood,Middlesex,HA6 1TQ,51.60446548461913,-0.4115371406078338
+5270,E84032,Ellis Practice,113 Chalkhill Road,Wembley,,London,,HA9 9FX,51.56389617919922,-0.2765373885631561
+5415,E84626,The Sunflower Medical Centre,116 Chaplin Road,Wembley,Wembley,WEMBLEY,Greater London,HA0 4UZ,51.549713134765625,-0.306770920753479
+5440,E84009,Enderley Road Medical Centre,41~45 Enderley Road,,,Harrow,Middlesex,HA3 5HF,51.60187149047852,-0.3404543995857238
+5484,E84685,Sudbury Surgery,Sudbury Primary Care Centre,Vale Farm,Watford Road,Wembley,Middlesex,HA0 3HG,51.558197021484375,-0.3163809478282928
+5717,E84069,Dr Wijeratne & Partners,Belmont Health Centre,,,Harrow,,HA3 7LT,51.601112365722656,-0.3205988705158233
+5723,E84658,ASPRI MEDICAL CENTRE,1-3 Long Elmes,HARROW WEALD,,HARROW,Middlesex,HA3 5LE,51.60447311401367,-0.3429878652095794
+5758,E84680,Headstone Road Surgery,107 Headstone Road,,,Harrow,Middlesex,HA1 1PG,51.58376693725586,-0.3408975601196289
+5966,Y02692,Brent GP Access Centre and Harness Wembley Practice,Westmore Unit,Wembley Centre for Health and Care,116 Chaplin Road,Wembley,Middlesex,HA0 4UZ,51.549713134765625,-0.306770920753479
+6160,E84017,Sudbury and Alperton Medical Centre,267 Ealing Road,,,Wembley,Middlesex,HA0 1EZ,51.536914825439446,-0.2980319559574127
+6479,E84039,Honeypot Medical Centre,404 Honeypot Lane,,,Stanmore,Middlesex,HA7 1JP,51.59698867797852,-0.2945311665534973
+6606,E84061,Elliott Hall Medical Centre,165-167 Uxbridge Road,,,Hatch End,Middlesex,HA5 4EA,51.60847854614258,-0.362511783838272
