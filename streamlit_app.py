@@ -1,7 +1,5 @@
 import pandas as pd
 
-# from collections import namedtuple
-
 import math
 import folium
 from streamlit_folium import st_folium

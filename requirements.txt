@@ -1,3 +1,9 @@
 altair
+folium
+math
+matplotlib
 pandas
+sklearn
 streamlit
+streamlit_folium
+wordcloud
