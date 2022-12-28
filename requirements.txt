@@ -1,6 +1,5 @@
 altair
 folium
-math
 matplotlib
 pandas
 sklearn
